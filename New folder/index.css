@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#img1{
+  width: 100%;
+  height: 450px;
+}
+
+.header-con #img1{
+  margin-bottom: -5px;
+}
+
+.body-con{
+  margin-top: 0;
+  width: 100%;
+  display: flex;
+}
+
+.col-1{
+  width: 50%;
+  height: 100%;
+  margin-right: 70px;
+  margin-left: 50px;
+}
+
+.col-2{
+  width: 50%;
+  height: 100%;
+  margin-right: 50px;
+}
+
+.col-1 p{
+  text-align: justify;
+}
+
+.col-2 h3,h4{
+  color: 	#9c7c38;
+  width: 200px;
+}
+
+.col-1 li{
+  margin-bottom: 10px;
+}
+
+.msg{
+  width: 100%;
+  height: 150px;
+}
+
+.msg h1{
+  color: #9c7c38;
+  text-align: center;
+  /* font-family: 'Gwendolyn', cursive; */
+  font-family: 'Dancing Script', cursive;
+}
+
+.footer-con{
+  width: 100%;
+  height: 100px;
+  margin: 0;
+
+}
+
+.footer-con ul{
+  display: flex;
+  margin-left: 400px;
+}
+.footer-con h6{
+  display: flex;
+  margin-left: 460px;
+  margin-top: -10px;
+}
+
+.footer-con li img{
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}
+
+
+.btn-con a{
+  text-decoration: none;
+  display: block;
+  width: 100px;
+  border-radius: 5px;
+  border: solid 2px #9c7c38;
+  margin-left: 475px;
+  padding: 5px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  color: #9c7c38;
+}
+
+
+
+.pics-con{
+  width: 100%;
+  height: 350px;
+}
+
+.row1{
+  width: 100%;
+  height: 50%;
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.row2{
+  width: 100%;
+  height: 50%;
+  
+}
+
+.img1{
+  width: 150px;
+  height: 100%;
+  margin-right: 5px;
+}
+
+.img2{
+  width: 150px;
+  height: 100%;
+  margin-right: 5px;
+}
+.img3{
+  width: 150px;
+  height: 100%;
+}
